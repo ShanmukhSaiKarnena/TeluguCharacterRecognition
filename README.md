@@ -1,8 +1,6 @@
 # TeluguCharacterRecognition
 Telugu Handwritten Character Recognition using CNN and Deep Learning
 
-Here's a complete and well-formatted `README.md` file content for your **Telugu Handwritten Character Recognition** project:
-
 ---
 
 ````markdown
